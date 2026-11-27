@@ -66,6 +66,7 @@ Narxni aytganda ichiga nimalar kirishini sanab o'ting, shunda narx arzon ko'rina
 | 2026-11-27	| Instagram/Telegram posti uchun rasm berilmadi (faqat g'oya yozildi).	Har bir post matni bilan birga mijoz 1 daqiqada tayyorlay oladigan tayyor banner matni (Canva uchun) yoki aniq foto-ssenariy berilsin. |
 | 2026-11-27 |	To'liq Windows, dastur va o'yinlar o'rnatishga "1 soatda" deb real bo'lmagan vaqt va'da qilindi.	Texnik xizmatlar uchun qurilma quvvati (SSD/HDD) va fayllar hajmiga bog'liq bo'lgan aniq vaqt va'dalari ("1 soatda", "30 daqiqada") berilmasin; faqat real bajariladigan ishlar ro'yxati yozilsin. |
 | 2026-11-27 | 	Ustaxonalardagi navbatni yomonlab raqobatchilarga tegib o'tildi.	Raqobatchilarni yomonlash taqiqlanadi; urg'u faqat mijozning qulayligi va vaqtini tejashga qaratilsin. |
+| 2026-11-27 |	Instagram uchun Telegram uslubida bitta statik rasm va uzun matn berildi.	Instagram vizual/video tarmoq: unga Telegram postini ko‘chirib bermaslik kerak. Faqat Reels ssenariysi, Karusel (matn rasm ichida) yoki Stories formatida kontent berilsin; Caption esa maksimal 2-3 qator bo‘lsin. |
 
 ---
 
