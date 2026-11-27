@@ -63,7 +63,10 @@ Narxni aytganda ichiga nimalar kirishini sanab o'ting, shunda narx arzon ko'rina
 | 2026-11-27 | Telegram kanal tavsifi (Description) uchun 255 belgidan uzun matn berildi. | Har qanday platforma uchun Bio/Description yozishdan oldin belgilar limitini tekshir va matnni limitdan kamida 20-30 belgi qisqa qilib tuz. |
 | 2026-11-27 | Mijozni jalb qilishda umumiy tavsiyalar berildi, lekin ijtimoiy tarmoqqa joylashning texnik tartibi darhol tushuntirilmadi. | Har bir kontent bilan birga uni qaysi tarmoqqa, qanday rasm bilan va qanday xeshteglar bilan joylash bo'yicha qisqa yo'riqnoma berilsin. |
 |2026-11-27 | Instagram Bio'ga emoji qo'yish mumkin emasligi (texnik blok) o'rniga dizayn sababi ko'rsatildi.Instagram Bio va Name qismiga umuman emoji va murakkab simvollar qo'yilmasin (Instagram saqlashga ruxsat bermaydi) — faqat oddiy harflar va defis (-) ishlatilsin. |
-|2026-11-27	| Instagram/Telegram posti uchun rasm berilmadi (faqat g'oya yozildi).	Har bir post matni bilan birga mijoz 1 daqiqada tayyorlay oladigan tayyor banner matni (Canva uchun) yoki aniq foto-ssenariy berilsin. |
+| 2026-11-27	| Instagram/Telegram posti uchun rasm berilmadi (faqat g'oya yozildi).	Har bir post matni bilan birga mijoz 1 daqiqada tayyorlay oladigan tayyor banner matni (Canva uchun) yoki aniq foto-ssenariy berilsin. |
+| 2026-11-27 |	To'liq Windows, dastur va o'yinlar o'rnatishga "1 soatda" deb real bo'lmagan vaqt va'da qilindi.	Texnik xizmatlar uchun qurilma quvvati (SSD/HDD) va fayllar hajmiga bog'liq bo'lgan aniq vaqt va'dalari ("1 soatda", "30 daqiqada") berilmasin; faqat real bajariladigan ishlar ro'yxati yozilsin. |
+| 2026-11-27 | 	Ustaxonalardagi navbatni yomonlab raqobatchilarga tegib o'tildi.	Raqobatchilarni yomonlash taqiqlanadi; urg'u faqat mijozning qulayligi va vaqtini tejashga qaratilsin. |
+
 ---
 
 ## 5. AI UCHUN ISH TARTIBI (SYSTEM PROMPT)
